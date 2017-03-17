@@ -1,0 +1,124 @@
+body{
+    background-color: #12385D;
+    padding-left: 300px;
+    padding-right: 200px;
+}
+.form{
+    background-color:#092435;
+    text-align: center;
+    width:350px;
+    height: 315px;
+    margin-top:50px;
+}
+h1{
+    background-color: #041522;
+    color: white;
+    text-align: center;
+}
+.text{
+    background-color: #041522;
+    margin-left: 10PX;
+    margin-right: 10PX;
+
+}
+.password{
+    background-color: #041522;
+    margin-left: 10PX;
+    margin-right: 10PX;
+    margin-top: 10px;
+    
+}
+.user{  
+    width: 20px;
+    vertical-align: middle;
+    /*background-color: #041522;*/
+}
+.lock{
+     width: 20px;
+    vertical-align: middle;
+
+}
+.text>input{
+    width: 300px;
+    background-color: #041522;
+    border: solid #041522;
+
+}
+.text>input:focus {
+    background-color: green;
+}
+.text>input:hover {
+    background-color: green;
+}
+.password>input:focus {
+    background-color: green;
+}
+.password>input:hover {
+    background-color: green;
+}
+.password>input{
+    width: 300px;
+    background-color: #041522;
+    border: solid #041522;
+}
+.login>input{
+    width: 325px;
+    background-color: #44FFA2;
+    color: white;
+    border: solid #44FFA2;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 15px; 
+}
+.checkbox{
+    text-align: left;
+    color: white;
+    float: left;
+    margin-top: 8px;
+    margin-left: 7px;
+}
+.forget{
+    color: white;
+    margin-top: -6px;
+    margin-right: -90px;
+}
+.facebook{
+    text-align: left;
+    background-color: #3E81AB;
+    width: 145px;
+    margin-left: 10px;
+    margin-top: -5px;
+    height: 22px;
+    text-align: center;
+}
+.twitter{
+    text-align: right;
+    float: right;
+    width: 145px;
+    background-color: aqua;
+    margin-top: -22px;
+    margin-right: 14px;
+    height: 22px;
+    text-align: center;         
+}
+.submit{
+background-color: #041522;
+    height: 48px;
+    margin-top: -12px;
+}
+.submit>input{
+    float: right;
+    color: white;
+    background-color: yellowgreen;
+    border-color: yellowgreen;
+    height: 25px;
+    margin-right: 11px;
+    margin-top: -37px;
+}
+.submit>p{
+    text-align: left;
+    color: white;
+    margin-top: 72px;
+    padding-left: 9px;
+    padding-top: 14px;
+}
